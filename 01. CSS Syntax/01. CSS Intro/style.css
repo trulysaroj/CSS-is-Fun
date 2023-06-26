@@ -1,0 +1,43 @@
+
+/* ------------------------------------------------------------------------------------------------------------------- */
+
+
+/* CSS Comments:
+ -> Comments allow us to document our source code without affecting the output of the website 
+ -> It's write inside forward slash (/ containing two star /) m, Like this one */
+
+
+
+ /* CSS Intro:
+ CSS provides a set of rules and properties that define how elements on a webpage should be displayed,
+including their layout, colors, fonts, sizes, and more */
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------- */
+
+
+
+/* CSS Syntax */
+
+h1 {
+    color: red;
+    font-size: 20px;
+ }
+  
+
+
+/* Where:
+h1 ---> Selectors
+color, font-size ---> Properties
+red, 20px ---> Values
+
+(After applying that code h1 will be red colored with font size of 20px.) */
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------- */
+
+
+
