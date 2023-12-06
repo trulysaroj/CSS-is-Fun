@@ -1,0 +1,36 @@
+
+/** UNIVERSAL SELECTOR  */
+* {
+    font-family: 'Arial', sans-serif;
+     /* Styles applied to all elements */
+    /* For example: */
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+
+
+/** ELEMENTS/ TAG SELECTORS: */
+p, h1 {
+    /* Styles applied to all <p> elements */
+    color: yellowgreen;
+}
+
+
+
+
+/** ID SELECTORS */
+#header {
+    /* Styles applied to the element with id="header" */
+    background-color: #f5f5f5;
+}
+
+
+
+/** CLASS SELECTORS  */
+.button {
+    /* Styles applied to all elements with class="button" */
+    background-color: yellowgreen;
+}
+
